@@ -1,24 +1,11 @@
-# README
+# Micro-Reddit
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+I built the data structures necessary to support link submissions and commenting. No front end. Using rails console to practice interactive with models and linking them.
 
-Things you may want to cover:
+* 3 models created: comment, post, user
 
-* Ruby version
+* added model validations
 
-* System dependencies
+* added associations between models
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+The Odin Project Ruby on Rails Course.
